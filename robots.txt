@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://forgenestdigital.org/sitemap.xml
